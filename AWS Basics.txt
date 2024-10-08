@@ -1,0 +1,7 @@
+What is Cloud ?
+
+Imagine you are a person living in a city A ,now after your graduation you got a job in City B so you will definitely have to go to City B in order to work . But the problem here is you dont own a place in CIty B , so in order to work in that city you are going to rent a place which will be like your own until you pay the rent for that place.
+Similarly lets imagine you want to start your own startup so in order to start your company you need a lot of things like hardware ,networking devices and even you need to hire people in order to  configure and maintain yoru hardware in thsi case just for starting a startup you need a lot of money to buy devices and hire people.But what if there is a way in which you can rent the hardware from someone at a nominal price and even harware you have rented would be managed by the provider and you just have to use it and pay rent every month , WOuldn't it be great ??
+So Cloud  is a rented module where in you can rent the complete infrastructure from cloud providers( like amazon,gcp,azure) and you do not have to deploy any resources to manage the rented hardware it will be managed by the cloud provider itself and they will make sure that your infrastructure is up and running at all time ,thus releiving you from teh stress of hardware managemnet so that you can focus on building the actual startup.
+
+
